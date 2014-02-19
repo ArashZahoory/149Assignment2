@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=arrivalTime\ expectedTime\ priority
+comment0.target=Process(float,\ float,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Process\n
+comment1.params=
+comment1.target=float\ getArrivalTime()
+comment1.text=\n\ This\ returns\ the\ arrival\ time\ value\n\ \n\ @return\ \ \ \ \ value\ of\ arrivalTime\n
+comment2.params=
+comment2.target=float\ getExpectedTime()
+comment2.text=\n\ This\ returns\ the\ expected\ time\ value\n\ \n\ @return\ \ \ \ \ value\ of\ arrivalTime\n
+comment3.params=
+comment3.target=int\ getPriority()
+comment3.text=\n\ This\ returns\ the\ priority\ value\n\ \n\ @return\ \ \ \ \ value\ of\ priority\n
+comment4.params=arrivalTime
+comment4.target=void\ setArrivalTime(float)
+comment4.text=\n\ This\ returns\ the\ arrival\ time\ value\n\ \n\ @return\ \ \ \ \ value\ of\ arrivalTime\n
+comment5.params=expectedTime
+comment5.target=void\ setExpectedTime(float)
+comment5.text=\n\ This\ returns\ the\ expected\ time\ value\n\ \n\ @return\ \ \ \ \ value\ of\ arrivalTime\n
+comment6.params=priority
+comment6.target=void\ setPriority(int)
+comment6.text=\n\ This\ returns\ the\ priority\ value\n\ \n\ @return\ \ \ \ \ value\ of\ priority\n
+numComments=7

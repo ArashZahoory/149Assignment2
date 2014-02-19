@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numProcesses
+comment0.target=ProcessGenerator(int)
+comment0.text=\n\ Constructor\:\ objects\ of\ ProcessGenerator\n\ numProcesses\ is\ passed\ in\ as\ the\ number\ of\ processes\ needed\ to\n\ be\ generated\n\ @param\ numProcesses\:\ an\ integer,\ number\ of\ processes\ to\ be\ created\ \n
+comment1.params=
+comment1.target=java.util.ArrayList\ generateProcesses()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ an\ arraylist\ Process\ objects\ sorted\ by\ arrival\ time\n
+comment2.params=process1\ process2
+comment2.target=int\ compare(Process,\ Process)
+numComments=3
